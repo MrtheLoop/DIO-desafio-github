@@ -1,0 +1,13 @@
+## Links Úteis
+
+Download do Git:
+
+[Git (git-scm.com)](https://git-scm.com/)
+
+Método de formatação de texto: Markdown
+
+[Guia de Marcação (markdownguide.org)](https://www.markdownguide.org/)
+
+Ferramenta de formatação de texto: Typora (Pode sofrer alteração)
+
+[Typora — a markdown editor, markdown reader.](https://typora.io/)
